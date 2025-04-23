@@ -18,6 +18,9 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+./restapiexample/*
+/restapiexample/*
+../restapiexample/*
 
 # IntelliJ IDEA
 .idea/
