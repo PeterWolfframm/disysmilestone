@@ -19,6 +19,11 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
+# Rest API Example folder
+restapiexample/
+/restapiexample/
+**/restapiexample/
+
 # IntelliJ IDEA
 .idea/
 *.iws
