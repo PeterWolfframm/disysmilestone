@@ -10,7 +10,7 @@ public class EnergyRestController {
 
     @GetMapping("/energy/current")
     public double getCurrentEnergy() {
-        //fuer testzwecke zufällige zahl zwischen 0 und 100
+        //für testzwecke zufällige zahl zwischen 0 und 100
         return random.nextDouble() * 100;
     }
 } 
